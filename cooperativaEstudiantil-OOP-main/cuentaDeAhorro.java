@@ -1,4 +1,4 @@
-public class cuentaDEAhorro{
+public class cuentaDeAhorro{
     private String titular ;
     private double saldo ;
     private String numeroCuenta;
